@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="action_settings">settings</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="popular">popular</string>
+    <string name="sortorder">sort_order</string>
+    <string name="thumbImage">thumb Nail Image</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="no_nw_available">"No Internet Connection"</string>
+</resources>
